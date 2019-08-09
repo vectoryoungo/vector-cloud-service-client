@@ -1,6 +1,6 @@
 HELP.md
 target/
-catalina.base_IS_UNDEFINED/
+catalina.base_IS_UNDEFINED/logs/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**
 !**/src/test/**
@@ -16,7 +16,7 @@ catalina.base_IS_UNDEFINED/
 
 ### IntelliJ IDEA ###
 .idea
-catalina.base_IS_UNDEFINED/
+catalina.base_IS_UNDEFINED/logs/
 *.iws
 *.iml
 *.ipr
