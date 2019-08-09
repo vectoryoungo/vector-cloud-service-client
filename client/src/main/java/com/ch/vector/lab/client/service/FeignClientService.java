@@ -7,7 +7,7 @@ package com.ch.vector.lab.client.service;
 import com.asia.stupid.fucking.shit.api.service.UserFeignService;
 import org.springframework.cloud.netflix.feign.FeignClient;
 
-@FeignClient(name = "vector-cloud-service-api-impl")
+//@FeignClient(name = "vector-cloud-service-api-impl")
 public interface FeignClientService extends UserFeignService{
 }
 
